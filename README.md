@@ -1,7 +1,5 @@
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flipkart Clone - Basic Version</title>
 </head>
 <body>
@@ -24,27 +22,5 @@
         <li><strong>CSS3</strong>: Styling the layout with a focus on responsiveness and modern design.</li>
         <li><strong>JavaScript</strong>: Basic interactivity, such as a search bar simulation and dynamic elements.</li>
     </ul>
-
-    <h2>How to Run the Project</h2>
-    <ol>
-        <li>Clone this repository:</li>
-        <pre>git clone https://github.com/yourusername/flipkart-clone.git</pre>
-        <li>Open <code>index.html</code> in your web browser to view the landing page.</li>
-    </ol>
-
-    <h2>Future Improvements</h2>
-    <ul>
-        <li>Add product pages with detailed information.</li>
-        <li>Implement a shopping cart and checkout flow.</li>
-        <li>Integrate product search and filters for better user interaction.</li>
-        <li>Add user authentication and dynamic content rendering.</li>
-    </ul>
-
-    <h2>Screenshots</h2>
-    <p>(Add screenshots of your landing page here for better visualization)</p>
-
-    <h2>License</h2>
-    <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
-
 </body>
 </html>
